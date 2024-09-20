@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Soufine
+## Hi there 👋, I'm Soufiane
 
 I'm a seasoned 🧩 System & 🧑🏻‍💻 Software Engineer with a fullstack background and >15 years of experience. 
 
