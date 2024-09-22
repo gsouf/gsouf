@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Soufiane
 
-I'm a seasoned 🧩 System & 🧑🏻‍💻 Software Engineer with a fullstack background and >15 years of experience. 
+I'm a seasoned 🧩 System & 🧑🏻‍💻 Software Engineer. 
 
-I'm currently expanding my skill set by studying 🗃️ Data Engineering, 🧠 Machine Learning, and 💬 NLP.
+I'm currently expanding my skill set with 🗃️ Data, 🧠 ML, and 💬 NLP Engineering.
 
 <p align="center">
   <a href="https://skillicons.dev">
