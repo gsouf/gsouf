@@ -1,5 +1,11 @@
 ## Hi there 👋, I'm Soufiane
 
-I'm a seasoned 🧩 System & 🧑🏻‍💻 Software Engineer.
+I'm a seasoned 🧩 System Egineering & 🧑🏻‍💻 Software Engineer.
+Sharpened my skills with 🧠 ML, and 💬 NLP Engineering.
 
-I'm currently expanding my skill set with 🗃️ Data, 🧠 ML, and 💬 NLP Engineering.
+Currently exploring ⚙️ System Programming. 
+
+--------
+
+
+ 🎯 🇩 🐪 🦀 🌙 🟨 ⚡ 🐍 🐘
